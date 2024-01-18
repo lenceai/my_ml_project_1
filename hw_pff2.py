@@ -1,5 +1,7 @@
 import pandas as pd
 
+#This is the new dataset
+
 data = {
     'Product': ['Laptop', 'Desktop', 'Tablet', 'Phone', 'Smartwatch'],
     'Price': [25000, 12000, 8000, 22000, 5000]
